@@ -1,0 +1,26 @@
+Copyright (C) 2025 Lukzak
+
+This software is licensed under the terms of the GNU General Public License (GPL), version 3.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+**IMPORTANT: TEST BUILD ONLY**
+This is a **testing version** of the software, and it is **not intended for regular use**. The full, stable release will be available soon. Please **do not use this software in a production environment** or for any critical purposes.
+
+By using this test build, you acknowledge that the software may contain bugs, incomplete features, or instability.
+
+As a user of this software, you have the right to:
+
+1. **Use** the software for any purpose.
+2. **Study** the software's source code and modify it.
+3. **Redistribute** the software, including modified versions, under the terms of the GPL.
+4. **Contribute** your improvements or modifications back to the community, if you choose.
+
+In addition, since this software links with Qt, which is licensed under the GPL, you also have the right to obtain the source code for the Qt libraries used, as well as the complete source code for this program.
+
+If you would like to obtain the source code for this program, including the Qt libraries or any modifications made to them, you may request it by contacting me at:
+
+Lukzak
+aqurir@gmail.com
+
+I will provide the source code to you upon request, free of charge, for a period of at least three years from the date of this release.
