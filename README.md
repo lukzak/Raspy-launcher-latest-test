@@ -17,6 +17,7 @@ the internet before putting its URL into the main.cpp.
 
 #########
 Setup
+
 ######### Discord Bot News/Translator Setup
 
 This assumes you have a working webserver that can serve files publicly over the internet. It also assumes you know how to add a Discord bot to your server, set its permissions, and obtain a bot token.
