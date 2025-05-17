@@ -27,7 +27,7 @@
 // MANUAL CONFIGURATION NEEDED
 
 // Customize the values below to match your server's info. Then build the launcher.
-// No need to change anything else in the code unless you want to tweak more advanced stuff.
+// Have a look at the handlePatchButton() function to modify it for your patch name.
 // -----------------------------
 
 // News source - if using multiple languages, make sure to take into account the string before language codes are appended below in fetchNews()
