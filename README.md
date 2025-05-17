@@ -5,6 +5,7 @@ The addon repos can be hosted and curated by anyone that can make a text file ac
 #########
 Pre-Setup info
 #########
+
 It is best to build this statically so that players can just drop the launcher .exe into their game folder.
 
 You must modify the top of the main.cpp to set the content URLs for your own server/patches/.exe mods. 
