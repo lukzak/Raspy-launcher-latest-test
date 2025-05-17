@@ -1,3 +1,21 @@
+This project is an old-school looking launcher designed for WoW private servers to help with distribution of custom patches and .exe mods. It also has support for custom addon repos and it can display news from your discord without requiring the player to have discord. It supports multiple news languages and can be switched between whatever languages you decide to build into the launcher. The included discord translator bot can even auto-translate basic messages automatically.
+
+The addon repos can be hosted and curated by anyone that can make a text file accessbile over the internet. Server owners can of course make their own addon repos if they want. But the intended functionality is to make it easy for guilds to distribute a link to their players and with 1 click can install whatever addons the guild deems necessary.
+
+#########
+Pre-Setup info
+#########
+It is best to build this statically so that players can just drop the launcher .exe into their game folder.
+
+You must modify the top of the main.cpp to set the content URLs for your own server/patches/.exe mods. 
+
+It is recommended to set up the discord bot first so that you can generate your news file and confirm it is accessible over
+the internet before putting its URL into the main.cpp.
+
+
+
+#########
+Setup
 ######### Discord Bot News/Translator Setup
 
 This assumes you have a working webserver that can serve files publicly over the internet. It also assumes you know how to add a Discord bot to your server, set its permissions, and obtain a bot token.
