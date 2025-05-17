@@ -8,7 +8,7 @@ Pre-Setup info
 
 It is best to build this statically so that players can just drop the launcher .exe into their game folder.
 
-You must modify the top of the main.cpp to set the content URLs for your own server/patches/.exe mods. 
+You must modify the top of the main.cpp to set the content URLs for your own server/patches/.exe mods. You will also need to modify handlePatchButton() to work with your specific patch name.
 
 It is recommended to set up the discord bot first so that you can generate your news file and confirm it is accessible over
 the internet before putting its URL into the main.cpp.
