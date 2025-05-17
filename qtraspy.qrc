@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/news_bg.bmp</file>
+        <file>assets/main_bg.bmp</file>
+        <file>assets/button_play.bmp</file>
+        <file>assets/button_patch.bmp</file>
+        <file>assets/button_realmlist.bmp</file>
+        <file>assets/button_discord.bmp</file>
+        <file>assets/button_website.bmp</file>
+        <file>assets/button_exe.bmp</file>
+        <file>assets/button_update.bmp</file>
+        <file>assets/Icon1.ico</file>
+        <file>assets/button_addon.bmp</file>
+        <file>assets/button_license.bmp</file>
+    </qresource>
+</RCC>
