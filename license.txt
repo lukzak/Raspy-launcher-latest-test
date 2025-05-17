@@ -17,8 +17,4 @@ As a user of this software, you have the right to:
 
 In addition, since this software links with Qt, which is licensed under the GPL, you also have the right to obtain the source code for the Qt libraries used, as well as the complete source code for this program.
 
-If you would like to obtain the source code for this program, including the Qt libraries or any modifications made to them, you may request it by contacting me at:
-
-Lukzak aqurir@gmail.com
-
-I will provide the source code to you upon request, free of charge, for a period of at least three years from the date of this release.
+If you would like to obtain the source code for this program, you can find it at https://github.com/lukzak/Raspy-launcher-latest-test
