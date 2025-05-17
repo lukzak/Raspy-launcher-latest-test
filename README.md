@@ -24,10 +24,11 @@ If you want multi-language support:
 
 - Replace the German channel names in the Python script with your own language names and codes.
 - Update any references to "German" or "de" accordingly. The timestamp timezone code should be changed if you are not in the CET timezone.
-- Insert your bot token in client.run('INSERT BOT TOKEN HERE') at the bottom of the script.
-- The bot writes and updates the news HTML file with timestamps and channel names.
-- Adjust the output file location if needed — make sure the bot has permission to write there.
-- Open the news file URL in your browser to verify the HTML output (encoding errors may appear but it should display correctly in the launcher).
+ 
+Insert your bot token in client.run('INSERT BOT TOKEN HERE') at the bottom of the script.
+The bot writes and updates the news HTML file with timestamps and channel names.
+Adjust the output file location if needed — make sure the bot has permission to write there.
+Open the news file URL in your browser to verify the HTML output (encoding errors may appear but it should display correctly in the launcher).
 
 Translator Bot:
 
