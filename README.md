@@ -54,8 +54,8 @@ Translator Bot:
 
 A separate Discord bot is included to translate messages using Google Translate and output them into another channel.
 
-- This works best on a private Discord server mirroring the official one.
-- Both input and output channels must be on the same server.
+- This works best on a private Discord server following the announcments/updates of the official one.
+- Both translation input and output channels must be on the same server.
 - Edit the script to set your target language and channel IDs (right-click channels to get IDs).
 - Run the translator bot alongside the news bot.
 - The translator bot processes official announcements and posts translated versions for the news bot to parse.
